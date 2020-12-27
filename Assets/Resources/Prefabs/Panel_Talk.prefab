@@ -626,8 +626,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u6E38\u620F\u7231\u597D\u8005\uFF1A(\u4EC5\u62FC\u97F3\u6392\u5E8F)\n\u5218\u5CB3
-    \u674E\u5EFA\u5B87 \u8FDE\u6B63\u6743 \u5468\u82AF\u5B87"
+  m_Text: "\u6E38\u620F\u7231\u597D\u8005\uFF1A(\u4EC5\u62FC\u97F3\u6392\u5E8F)\n\u674E\u5EFA\u5B87
+    \u5218\u5CB3 \u8FDE\u6B63\u6743 \u5468\u82AF\u5B87"
 --- !u!114 &3992735456452323602
 MonoBehaviour:
   m_ObjectHideFlags: 0
