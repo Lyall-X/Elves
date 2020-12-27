@@ -88,7 +88,7 @@ public class Monster_2 : MonoBehaviour
     private void MonsterHealth(object HealthObg)
     {
         int health = Convert.ToInt32(HealthObg);
-        if (health != 100 && health != 10)
+        if (health != 50)
         {
             if (health == 0)
             {

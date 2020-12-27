@@ -31,8 +31,8 @@ class MonsterManager
             initPos = monsterTrans.position;
             ShowMonster();
             monsterHealth = heal;
-            gameManager.Send("monsterHealth", monsterHealth);
         }
+        gameManager.Send("monsterHealth", monsterHealth);
     }
     public Vector3 GetMonsterPos()
     {
