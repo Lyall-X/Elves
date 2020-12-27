@@ -14,8 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mEventID: 1
   mEventList:
-  - mStartSample: 132300
-    mEndSample: 132300
   - mStartSample: 176400
     mEndSample: 176400
   - mStartSample: 220500
@@ -74,8 +72,7 @@ MonoBehaviour:
   - mIntVal: 0
   - mIntVal: 0
   - mIntVal: 0
-  - mIntVal: 0
-  _IntPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000
+  _IntPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e000000
   _SpectrumPayloads: []
   _SpectrumPayloadIdxs: 
   _TextPayloads: []
