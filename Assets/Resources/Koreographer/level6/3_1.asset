@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: 3_1
+  m_EditorClassIdentifier: 
+  mEventID: 3_1
+  mEventList:
+  - mStartSample: 0
+    mEndSample: 0
+  - mStartSample: 22050
+    mEndSample: 22050
+  - mStartSample: 110250
+    mEndSample: 110250
+  - mStartSample: 198450
+    mEndSample: 198450
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: Monster_3
+  - mTextVal: "\u53E4\u517D\u5927\u4F6C\uFF0C\u518D\u4E0D\u505C\u4E0B\u6765\uFF0C\u7CBE\u7075\u7684\u5BB6\u56ED\u5C31\u8981\u88AB\u4F60\u8E0F\u5E73\u3002"
+  - mTextVal: "\u5185\u5FC3\u5145\u6EE1\u66B4\u8E81\uFF0C\u7834\u574F\uFF0C\u6BC1\u574F\uFF0C\u6211\u53D8\u6210\u4E86\u53E6\u5916\u4E00\u4E2A\u602A\u7269\u3002"
+  - mTextVal: "\u6309\u8010\u4E0D\u4F4F\u5185\u5FC3\u7684\u72C2\u70ED\uFF0C\u6765\u6218\u6597\u628A\uFF01"
+  _TextPayloadIdxs: 00000000010000000200000003000000

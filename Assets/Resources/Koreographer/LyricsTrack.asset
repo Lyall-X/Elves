@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: LyricsTrack
+  m_EditorClassIdentifier: 
+  mEventID: Lyrics
+  mEventList:
+  - mStartSample: 617400
+    mEndSample: 713868
+  - mStartSample: 719381
+    mEndSample: 791043
+  - mStartSample: 793800
+    mEndSample: 876487
+  - mStartSample: 882000
+    mEndSample: 942637
+  - mStartSample: 948150
+    mEndSample: 1063912
+  - mStartSample: 1069425
+    mEndSample: 1141087
+  - mStartSample: 1143843
+    mEndSample: 1223775
+  - mStartSample: 1229287
+    mEndSample: 1278900
+  - mStartSample: 1317487
+    mEndSample: 1413956
+  - mStartSample: 1419468
+    mEndSample: 1488375
+  - mStartSample: 1493887
+    mEndSample: 1573818
+  - mStartSample: 1579331
+    mEndSample: 1642725
+  - mStartSample: 1645481
+    mEndSample: 1741950
+  - mStartSample: 1769512
+    mEndSample: 1824637
+  - mStartSample: 1841175
+    mEndSample: 1923862
+  - mStartSample: 1929375
+    mEndSample: 2009306
+  - mStartSample: 2014818
+    mEndSample: 2103018
+  - mStartSample: 2105775
+    mEndSample: 2199487
+  - mStartSample: 2205000
+    mEndSample: 2273906
+  - mStartSample: 2279418
+    mEndSample: 2340056
+  - mStartSample: 2345568
+    mEndSample: 2532993
+  - mStartSample: 2541262
+    mEndSample: 2579850
+  - mStartSample: 2585362
+    mEndSample: 2626706
+  - mStartSample: 2632218
+    mEndSample: 2792081
+  - mStartSample: 2979506
+    mEndSample: 3075975
+  - mStartSample: 3081487
+    mEndSample: 3150393
+  - mStartSample: 3153150
+    mEndSample: 3238593
+  - mStartSample: 3241350
+    mEndSample: 3301987
+  - mStartSample: 3307500
+    mEndSample: 3406725
+  - mStartSample: 3428775
+    mEndSample: 3500437
+  - mStartSample: 3503193
+    mEndSample: 3585881
+  - mStartSample: 3594150
+    mEndSample: 3654787
+  - mStartSample: 3657543
+    mEndSample: 3679593
+  - mStartSample: 3693375
+    mEndSample: 3762281
+  - mStartSample: 3767793
+    mEndSample: 3850481
+  - mStartSample: 3853237
+    mEndSample: 3996562
+  - mStartSample: 4007587
+    mEndSample: 4115081
+  - mStartSample: 4117837
+    mEndSample: 4197768
+  - mStartSample: 4203281
+    mEndSample: 4244625
+  - mStartSample: 4247381
+    mEndSample: 4285968
+  - mStartSample: 4291481
+    mEndSample: 4327312
+  - mStartSample: 4330068
+    mEndSample: 4374168
+  - mStartSample: 4379681
+    mEndSample: 4456856
+  - mStartSample: 4467881
+    mEndSample: 4503712
+  - mStartSample: 4506468
+    mEndSample: 4550568
+  - mStartSample: 4556081
+    mEndSample: 4633256
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: "\u554A~"
+  - mTextVal: "\u70DF\u82B1\u7EFD\u653E"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u554A~"
+  - mTextVal: "\u6B22\u58F0\u56DB\u8D77"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u554A~"
+  - mTextVal: "\u4EBA\u6C14\u4E0A\u5347"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u554A~"
+  - mTextVal: "\u63D0\u9AD8\u5DE5\u8D44"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u8282\u65E5\u5E86\u5178"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6 \u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u65E5\u672C\u5185\u90E8\u6D88\u8017"
+  - mTextVal: "\u549A\u549A\u90A6"
+  - mTextVal: "\u628A\u90A3\u4E2A\u91CD\u65B0\u6298\u56DE\u6765  \u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u554A~"
+  - mTextVal: "\u76C2\u5170\u76C6\u4F1A\u821E"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6 \u549A\u549A\u90A6\u90A6 \u549A\u90A6\u90A6"
+  - mTextVal: "\u554A~"
+  - mTextVal: "\u5982\u679C\u4E0B\u96E8\u7684\u8BDD"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u554A~"
+  - mTextVal: "\u767B\u4E0A\u5C71\u9876"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u554A~"
+  - mTextVal: "\u770B\u8282\u65E5\u5E86\u5178"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6  \u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u8FD9\u5C31\u662F\u65E5\u672C\u5236\u9020"
+  - mTextVal: "\u628A\u90A3\u4E2A\u91CD\u65B0\u6298\u56DE\u6765"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u554A~"
+  - mTextVal: "\u76C2\u5170\u76C6\u4F1A\u821E"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u549A\u90A6\u90A6"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u549A\u549A\u90A6\u90A6"
+  - mTextVal: "\u549A\u90A6\u90A6"
+  _TextPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d000000

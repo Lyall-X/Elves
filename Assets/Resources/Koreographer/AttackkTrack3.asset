@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: AttackkTrack3
+  m_EditorClassIdentifier: 
+  mEventID: Attack
+  mEventList:
+  - mStartSample: 473108
+    mEndSample: 473108
+  - mStartSample: 496125
+    mEndSample: 496125
+  - mStartSample: 650825
+    mEndSample: 650825
+  - mStartSample: 673842
+    mEndSample: 673842
+  - mStartSample: 810493
+    mEndSample: 810493
+  - mStartSample: 833510
+    mEndSample: 833510
+  - mStartSample: 953662
+    mEndSample: 953662
+  - mStartSample: 971673
+    mEndSample: 971673
+  - mStartSample: 1086082
+    mEndSample: 1086082
+  - mStartSample: 1104093
+    mEndSample: 1104093
+  - mStartSample: 1207951
+    mEndSample: 1207951
+  - mStartSample: 1225962
+    mEndSample: 1225962
+  - mStartSample: 1322242
+    mEndSample: 1322242
+  - mStartSample: 1335502
+    mEndSample: 1335502
+  - mStartSample: 1423273
+    mEndSample: 1423273
+  - mStartSample: 1434639
+    mEndSample: 1434639
+  - mStartSample: 1900644
+    mEndSample: 1900644
+  - mStartSample: 1926533
+    mEndSample: 1926533
+  - mStartSample: 2459471
+    mEndSample: 2459471
+  - mStartSample: 2482835
+    mEndSample: 2482835
+  - mStartSample: 2621193
+    mEndSample: 2621193
+  - mStartSample: 2641958
+    mEndSample: 2641958
+  - mStartSample: 2761932
+    mEndSample: 2761932
+  - mStartSample: 2780244
+    mEndSample: 2780244
+  - mStartSample: 2886327
+    mEndSample: 2886327
+  - mStartSample: 2902113
+    mEndSample: 2902113
+  - mStartSample: 3005038
+    mEndSample: 3005038
+  - mStartSample: 3020850
+    mEndSample: 3020850
+  - mStartSample: 3116172
+    mEndSample: 3116172
+  - mStartSample: 3128801
+    mEndSample: 3128801
+  - mStartSample: 3219300
+    mEndSample: 3219300
+  - mStartSample: 3231726
+    mEndSample: 3231726
+  - mStartSample: 3318865
+    mEndSample: 3318865
+  - mStartSample: 3330231
+    mEndSample: 3330231
+  - mStartSample: 3887796
+    mEndSample: 3887796
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.IntPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads:
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 3
+  _IntPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads: []
+  _TextPayloadIdxs: 

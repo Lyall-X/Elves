@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: AttackkTrack2
+  m_EditorClassIdentifier: 
+  mEventID: Attack
+  mEventList:
+  - mStartSample: 341775
+    mEndSample: 341775
+  - mStartSample: 374850
+    mEndSample: 374850
+  - mStartSample: 562275
+    mEndSample: 562275
+  - mStartSample: 595350
+    mEndSample: 595350
+  - mStartSample: 785531
+    mEndSample: 785531
+  - mStartSample: 799312
+    mEndSample: 799312
+  - mStartSample: 813093
+    mEndSample: 813093
+  - mStartSample: 1008787
+    mEndSample: 1008787
+  - mStartSample: 1033593
+    mEndSample: 1033593
+  - mStartSample: 1232043
+    mEndSample: 1232043
+  - mStartSample: 1245824
+    mEndSample: 1245824
+  - mStartSample: 1259606
+    mEndSample: 1259606
+  - mStartSample: 1455300
+    mEndSample: 1455300
+  - mStartSample: 1463569
+    mEndSample: 1463569
+  - mStartSample: 1471838
+    mEndSample: 1471838
+  - mStartSample: 1480106
+    mEndSample: 1480106
+  - mStartSample: 1648237
+    mEndSample: 1648237
+  - mStartSample: 1656505
+    mEndSample: 1656505
+  - mStartSample: 1664774
+    mEndSample: 1664774
+  - mStartSample: 1673043
+    mEndSample: 1673043
+  - mStartSample: 1899056
+    mEndSample: 1899056
+  - mStartSample: 1904568
+    mEndSample: 1904568
+  - mStartSample: 1912837
+    mEndSample: 1912837
+  - mStartSample: 1921106
+    mEndSample: 1921106
+  - mStartSample: 2133337
+    mEndSample: 2133337
+  - mStartSample: 2144362
+    mEndSample: 2144362
+  - mStartSample: 2152631
+    mEndSample: 2152631
+  - mStartSample: 2160899
+    mEndSample: 2160899
+  - mStartSample: 2163656
+    mEndSample: 2163656
+  - mStartSample: 2455818
+    mEndSample: 2455818
+  - mStartSample: 2461331
+    mEndSample: 2461331
+  - mStartSample: 2466843
+    mEndSample: 2466843
+  - mStartSample: 2472356
+    mEndSample: 2472356
+  - mStartSample: 2679075
+    mEndSample: 2679075
+  - mStartSample: 2681831
+    mEndSample: 2681831
+  - mStartSample: 2687343
+    mEndSample: 2687343
+  - mStartSample: 2690100
+    mEndSample: 2690100
+  - mStartSample: 2695612
+    mEndSample: 2695612
+  - mStartSample: 2698368
+    mEndSample: 2698368
+  - mStartSample: 2902331
+    mEndSample: 2902331
+  - mStartSample: 2905087
+    mEndSample: 2905087
+  - mStartSample: 2907843
+    mEndSample: 2907843
+  - mStartSample: 2910600
+    mEndSample: 2910600
+  - mStartSample: 2913356
+    mEndSample: 2913356
+  - mStartSample: 2916112
+    mEndSample: 2916112
+  - mStartSample: 2918868
+    mEndSample: 2918868
+  - mStartSample: 2921625
+    mEndSample: 2921625
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.IntPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads:
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  - mIntVal: 1
+  _IntPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e000000
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads: []
+  _TextPayloadIdxs: 

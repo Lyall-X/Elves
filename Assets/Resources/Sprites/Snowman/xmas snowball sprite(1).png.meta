@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: b28550e710f6c8c468fe3570a095ed9c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: xmas snowball sprite(1)_0
+    21300002: xmas snowball sprite(1)_3
+    21300004: xmas snowball sprite(1)_18
+    21300006: xmas snowball sprite(1)_24
+    21300008: xmas snowball sprite(1)_31
+    21300010: xmas snowball sprite(1)_32
+    21300012: xmas snowball sprite(1)_33
+    21300014: xmas snowball sprite(1)_34
+    21300016: xmas snowball sprite(1)_35
+    21300018: xmas snowball sprite(1)_36
+    21300020: xmas snowball sprite(1)_37
+    21300022: xmas snowball sprite(1)_39
+    21300024: xmas snowball sprite(1)_40
+    21300026: xmas snowball sprite(1)_41
+    21300028: xmas snowball sprite(1)_42
+    21300030: xmas snowball sprite(1)_43
+    21300032: xmas snowball sprite(1)_44
+    21300034: xmas snowball sprite(1)_45
+    21300036: xmas snowball sprite(1)_46
+    21300038: xmas snowball sprite(1)_47
+    21300040: xmas snowball sprite(1)_49
+    21300042: xmas snowball sprite(1)_50
+    21300044: xmas snowball sprite(1)_51
+    21300046: xmas snowball sprite(1)_52
+    21300048: xmas snowball sprite(1)_53
+    21300050: xmas snowball sprite(1)_54
+    21300052: xmas snowball sprite(1)_55
+    21300054: xmas snowball sprite(1)_56
+    21300056: xmas snowball sprite(1)_57
+    21300058: xmas snowball sprite(1)_58
+    21300060: xmas snowball sprite(1)_59
+    21300062: xmas snowball sprite(1)_60
+    21300064: xmas snowball sprite(1)_61
+    21300066: xmas snowball sprite(1)_62
+    21300068: xmas snowball sprite(1)_63
+    21300070: xmas snowball sprite(1)_64
+    21300072: xmas snowball sprite(1)_65
+    21300074: xmas snowball sprite(1)_66
+    21300076: xmas snowball sprite(1)_67
+    21300078: xmas snowball sprite(1)_68
+    21300080: xmas snowball sprite(1)_69
+    21300082: xmas snowball sprite(1)_70
+    21300084: xmas snowball sprite(1)_71
+    21300086: xmas snowball sprite(1)_72
+    21300088: xmas snowball sprite(1)_73
+    21300090: xmas snowball sprite(1)_74
+    21300092: xmas snowball sprite(1)_75
+    21300094: xmas snowball sprite(1)_76
+    21300096: xmas snowball sprite(1)_77
+    21300098: xmas snowball sprite(1)_78
+    21300100: xmas snowball sprite(1)_79
+    21300102: xmas snowball sprite(1)_80
+    21300104: xmas snowball sprite(1)_81
+    21300106: xmas snowball sprite(1)_82
+    21300108: xmas snowball sprite(1)_83
+    21300110: xmas snowball sprite(1)_84
+    21300112: xmas snowball sprite(1)_85
+    21300114: xmas snowball sprite(1)_86
+    21300116: xmas snowball sprite(1)_87
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_3
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 3514
+        width: 611
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline:
+      - - {x: -186.2915, y: -455.8108}
+        - {x: -197.5293, y: -415.41406}
+        - {x: -264.71313, y: -425.98682}
+        - {x: -162.74585, y: -384.50586}
+        - {x: -176.27832, y: -485.27344}
+        - {x: -152.28564, y: -485.66382}
+        - {x: -171.28369, y: -470.6255}
+      - - {x: 258.46277, y: -451.17868}
+        - {x: 227.61453, y: -444.56638}
+        - {x: 232.02142, y: -435.74997}
+        - {x: 267.27655, y: -398.28024}
+        - {x: 284.9041, y: -374.03513}
+        - {x: 302.53168, y: -336.5654}
+        - {x: 305.5, y: -305.70798}
+        - {x: 305.5, y: -213.13571}
+        - {x: 287.10757, y: -140.40036}
+        - {x: 276.09033, y: -122.76755}
+        - {x: 243.03865, y: -85.29782}
+        - {x: 229.81798, y: -74.27731}
+        - {x: 209.98697, y: -63.2568}
+        - {x: 225.41109, y: -34.60348}
+        - {x: 225.41109, y: 80.0098}
+        - {x: 221.0042, y: 97.64262}
+        - {x: 207.78352, y: 124.091835}
+        - {x: 168.1215, y: 168.17387}
+        - {x: 165.91806, y: 185.80669}
+        - {x: 137.27327, y: 315.84866}
+        - {x: 124.052605, y: 379.76764}
+        - {x: 126.25605, y: 401.80865}
+        - {x: 141.68016, y: 404.01276}
+        - {x: 185.74907, y: 410.62506}
+        - {x: 194.56285, y: 412.82916}
+        - {x: 198.96974, y: 417.23737}
+        - {x: 201.17319, y: 426.05377}
+        - {x: 181.34218, y: 481.1563}
+        - {x: 174.73184, y: 487.76862}
+        - {x: 168.1215, y: 489.97272}
+        - {x: 124.052605, y: 445.8907}
+        - {x: 135.06982, y: 500}
+        - {x: 55.745796, y: 500}
+        - {x: 55.745796, y: 496.58502}
+        - {x: 29.304451, y: 467.9317}
+        - {x: -1.5437835, y: 432.66608}
+        - {x: -3.7472289, y: 426.05377}
+        - {x: 24.89756, y: 415.03326}
+        - {x: 86.59403, y: 399.60455}
+        - {x: 64.55958, y: 355.5225}
+        - {x: 51.338905, y: 322.46097}
+        - {x: 2.8631072, y: 218.86821}
+        - {x: -10.357565, y: 196.8272}
+        - {x: -32.392017, y: 181.39848}
+        - {x: -56.629917, y: 161.56157}
+        - {x: -94.088486, y: 110.867226}
+        - {x: -122.73328, y: 130.70415}
+        - {x: -144.76773, y: 124.091835}
+        - {x: -153.58151, y: 62.37699}
+        - {x: -131.54706, y: 49.15238}
+        - {x: -135.95395, y: 16.090857}
+        - {x: -111.71605, y: -27.991177}
+        - {x: -122.73328, y: -34.60348}
+        - {x: -191.04008, y: -36.807583}
+        - {x: -204.26076, y: -43.419888}
+        - {x: -215.27798, y: -54.440395}
+        - {x: -215.27798, y: -67.66501}
+        - {x: -204.26076, y: -83.09372}
+        - {x: -113.919495, y: -120.563446}
+        - {x: -91.88504, y: -116.15524}
+        - {x: -107.30916, y: -133.78806}
+        - {x: -124.93672, y: -199.9111}
+        - {x: -131.54706, y: -226.36032}
+        - {x: -142.56429, y: -232.97263}
+        - {x: -175.61597, y: -197.707}
+        - {x: -197.65042, y: -171.25778}
+        - {x: -182.2263, y: -155.82907}
+        - {x: -182.2263, y: -149.21677}
+        - {x: -204.26076, y: -131.58395}
+        - {x: -204.26076, y: -98.52243}
+        - {x: -213.07454, y: -87.50192}
+        - {x: -228.49866, y: -83.09372}
+        - {x: -259.3469, y: -83.09372}
+        - {x: -279.1779, y: -85.29782}
+        - {x: -296.80545, y: -100.72653}
+        - {x: -305.5, y: -111.74704}
+        - {x: -305.5, y: -142.60446}
+        - {x: -265.9572, y: -184.48239}
+        - {x: -237.31244, y: -208.72751}
+        - {x: -235.109, y: -208.72751}
+        - {x: -219.68488, y: -202.1152}
+        - {x: -129.34361, y: -305.70798}
+        - {x: -124.93672, y: -332.1572}
+        - {x: -120.52983, y: -349.79}
+        - {x: -105.10571, y: -376.23923}
+        - {x: -83.071266, y: -404.89255}
+        - {x: -47.816135, y: -437.95407}
+        - {x: -65.4437, y: -451.17868}
+        - {x: -87.47816, y: -455.58688}
+        - {x: -109.5126, y: -473.2197}
+        - {x: -109.5126, y: -484.2402}
+        - {x: -100.69882, y: -497.4648}
+        - {x: -98.49538, y: -499.6689}
+        - {x: 289.311, y: -499.6689}
+        - {x: 300.32825, y: -488.6484}
+        - {x: 302.53168, y: -473.2197}
+        - {x: 280.49722, y: -455.58688}
+      physicsShape: []
+      tessellationDetail: 0.28
+      bones: []
+      spriteID: e099e223bc8d67e4cb479bed6d86f431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3279
+        width: 290
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6d0707fd3a1404587bc44e2dfaa84b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3272
+        width: 240
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6d798fee85f064a95f0ee41b915bc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_33
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 3268
+        width: 257
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f152eb1a020c4224bb6db99108b6837d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_34
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 3270
+        width: 236
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0359b2dcb960b49408a6cffa4ccadf5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_35
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 3274
+        width: 209
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dae9469e9ecdf94288f3946eb265041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_36
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3272
+        width: 203
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455f8351323fd7040881afc262923bbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_37
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 3279
+        width: 221
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cc7a928a484064ab635ab16bf0f237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2884
+        width: 233
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0442f016bc1a144cb05b11e9d51cb01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_40
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2884
+        width: 227
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60e6e0969f2105499e8b155095bec79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_41
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2884
+        width: 216
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a779e32fc98b5394db9928aae3e5620d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_42
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2886
+        width: 204
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c95375fd41b51342952846f254458f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_43
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 2884
+        width: 207
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1872d70c498f5843a57cf9957897ce7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_44
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 2884
+        width: 205
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931affc72e5d2c147801712ff21d7362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_45
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2884
+        width: 211
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a18f9cce3a1cec48823fd3c6ca01dfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_46
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 2884
+        width: 227
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4928995d8e103744f9cc552117b277aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_47
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 2884
+        width: 234
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6d57fdd18c29a449d6c8f94d7d54ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2382
+        width: 240
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a2507312086a247afe46b98c1300e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_50
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2382
+        width: 240
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d132d72a1907249a2c4d6d3e172357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_51
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2382
+        width: 240
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2226102ea0e34b8448f80b3a130f2382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_52
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2382
+        width: 240
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dee421504d57d4aaae88cf0cad23bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_53
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2382
+        width: 240
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9f11643738b0243b715abd1f775a23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_54
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 2382
+        width: 240
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09060418420eb144bb598c3aeffa1502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_55
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2382
+        width: 240
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1016725338cbf44b2241a4481fc359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_57
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1875
+        width: 248
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae5df3a4930f864b9fd27fd5015f720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_58
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1873
+        width: 247
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8189b4c337b43d4aa4dcc72c32ad263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_59
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1873
+        width: 242
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768c6e9a2f9effe468102afbc8edb280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_60
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1875
+        width: 231
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feca30d3ae0fc5a4191290d67befa82e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_61
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1875
+        width: 225
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab06cb2a87d424047a373b38e48fad2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_62
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1872
+        width: 224
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc63e71e2a4009408cbd6ba23140808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_63
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1872
+        width: 245
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6648ce94d4335a54ca599804d2db18d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_65
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1873
+        width: 274
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb4318bc3465584e86c93eee7dc3a35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1410
+        width: 283
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71590a5125a0af4caae08f59426b3a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_69
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1410
+        width: 237
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3c97e63caf2304986bfb7eabd0fcfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_70
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1410
+        width: 248
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02091ad5d0f4c254ba6904f516520276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 254
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97233baa6e1e9ee439bbd1f58777dff8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_73
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 927
+        width: 256
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbdaf75aad222843b75e23ae0067fa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_74
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 927
+        width: 228
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a6653ba72784346b41bd0e6355cd6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_75
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 927
+        width: 302
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e0c511bb9cea549a07bccf3ed216b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_76
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 927
+        width: 385
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ad35a101e0d3b4a9c8369005bc6619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_77
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 909
+        width: 458
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d8cbbbb3872ed45b0756f3980ac437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_78
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 933
+        width: 506
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3df7391fe048534e95ea0128faa796b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 631
+        width: 519
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169354d970565ea45bb506e4c33f7a43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_82
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 553
+        width: 525
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e49615a7852fca48a1c3da1489aba5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_86
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 479
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2c6f75ac7287948add148979336939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 79e3f2fc5ac850f4f9153c30056e5ddc
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

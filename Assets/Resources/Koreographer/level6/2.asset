@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  mEventID: 2
+  mEventList:
+  - mStartSample: 0
+    mEndSample: 0
+  - mStartSample: 44100
+    mEndSample: 44100
+  - mStartSample: 88200
+    mEndSample: 88200
+  - mStartSample: 132300
+    mEndSample: 132300
+  - mStartSample: 176400
+    mEndSample: 176400
+  - mStartSample: 220500
+    mEndSample: 220500
+  - mStartSample: 264600
+    mEndSample: 264600
+  - mStartSample: 308700
+    mEndSample: 308700
+  - mStartSample: 352800
+    mEndSample: 352800
+  - mStartSample: 396900
+    mEndSample: 396900
+  - mStartSample: 441000
+    mEndSample: 441000
+  - mStartSample: 485100
+    mEndSample: 485100
+  - mStartSample: 529200
+    mEndSample: 529200
+  - mStartSample: 573300
+    mEndSample: 573300
+  - mStartSample: 617400
+    mEndSample: 617400
+  - mStartSample: 661500
+    mEndSample: 661500
+  - mStartSample: 705600
+    mEndSample: 705600
+  - mStartSample: 749700
+    mEndSample: 749700
+  - mStartSample: 793800
+    mEndSample: 793800
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.IntPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads:
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  _IntPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads: []
+  _TextPayloadIdxs: 
